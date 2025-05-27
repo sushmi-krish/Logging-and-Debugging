@@ -1,0 +1,15 @@
+{"level":"info","message":"JohnDoe, Miami"}
+{"level":"info","message":"KateSmith, Houston"}
+{"level":"info","message":"RossTaylor, Los Angeles"}
+{"level":"info","message":"JosephAnderson, North Dakota"}
+{"level":"info","message":"MariaMartinex, Chicago"}
+{"level":"info","message":"ChristinaJohnson, Dallas"}
+{"level":"info","message":"JimWalker, Denver"}
+{"level":"info","message":"DanWilliams, Atlanta"}
+{"level":"info","message":"EmmaTurner, San Francisco"}
+{"level":"info","message":"ElijahFoster, New York"}
+{"level":"info","message":"JohnDoe,Miami"}
+{"level":"error","message":"Record not found"}
+{"level":"warn","message":"Record number has to be within 1 to 10"}
+{"level":"error","message":"Input not a number"}
+{"level":"warn","message":"Only numbers can be entered"}
